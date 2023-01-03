@@ -1,9 +1,9 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasudonguri&theme=dark">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasudonguri&theme=dark&show_icons=true">
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=nasudonguri&theme=dark">
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasudonguri&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasudonguri&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasudonguri&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=9)
