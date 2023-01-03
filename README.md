@@ -1,17 +1,17 @@
-[![trackgit-views](<https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lcgni5q0q2ngvyijaxhl>)](<https://trackgit.com>)
+# Follow
 
-[![](<https://img.shields.io/badge/@ykhmndr%20-Twitter-1DA1F2.svg?logo=twitter&style=popout>)](<https://twitter.com/intent/follow?screen_name=ykhmndr>)
+## Twitter
+![Twitter Follow](https://img.shields.io/twitter/follow/ykhmndr?style=social)
 
-![](<https://img.shields.io/badge/@ykhmndr@mstdn.jp-Mastodon-3088D4.svg?logo=mastodon&style=popout>)
+## Mastodon
+<p>@ykhmndr@mstdn.jp</p>
 
-![](<https://img.shields.io/badge/@nasudonguri-Github-181717.svg?logo=github&style=popout>)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109375598014276673?domain=https%3A%2F%2Fmstdn.jp&style=social)
 
-![](<https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=&style=popout>)
+## GitHub
+![GitHub followers](https://img.shields.io/github/followers/nasudonguri?style=social)
 
-![](<https://img.shields.io/badge/-Litlink-1DA1F2.svg?logo=&style=popout>)
-
-![](<https://img.shields.io/badge/-Mail-1DA1F2.svg?logo=&style=popout>)
-
+# GitHub Data
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasudonguri&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasudonguri&theme=github_dark)
@@ -21,3 +21,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=9)
+
+# TrackGit
+[![trackgit-views](<https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lcgni5q0q2ngvyijaxhl>)](<https://trackgit.com>)
